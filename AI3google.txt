@@ -1,0 +1,8 @@
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,google.dev
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,googleblog.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleapis.cn
